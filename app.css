@@ -94,3 +94,7 @@ input[type='button']:active {
     margin: 100px auto;
     box-shadow: 5px 10px;
 }
+
+table {
+    width: 100%;
+}
