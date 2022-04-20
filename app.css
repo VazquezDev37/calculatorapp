@@ -50,7 +50,7 @@ input[type='button']:active {
 }
 
 .decimal {
-    background-color: lightblue;
+    background-color: teal;
     padding: 5px;
     color: black;
     border: solid black 2px;
@@ -60,7 +60,7 @@ input[type='button']:active {
 }
 
 .equal {
-    background-color: lightblue;
+    background-color: teal;
     padding: 5px;
     color: black;
     border: solid black 2px;
