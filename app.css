@@ -87,11 +87,11 @@ input[type='button']:active {
     padding: 15px;
     color: black;
     border: solid black 2px;
-    width: 50%;
+    width: 30%;
     display: block;
     align-self: center;
     border-radius: 10px;
-    margin: 150px auto;
+    margin: 140px auto;
     box-shadow: 5px 10px;
 }
 
